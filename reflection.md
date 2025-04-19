@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Kobe Sukhatme
+Sudent Email:  kmsukhat@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,8 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+In assignment 7,I learned how to use playwright to scrape date from a live website. I also practiced cleaning scraped text and then converting it into structured MenuItem dataclasses.
+
+
+
 
